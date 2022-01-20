@@ -1,0 +1,17 @@
+.container {
+  background-image: url("../../assets/images/img-3.png");
+  background-repeat: no-repeat;
+  height: 50vh;
+  background-size: contain;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    height: 40vh;
+    background: linear-gradient(
+        rgba(183, 245, 147, 0.6),
+        rgba(77, 116, 72, 0.9)
+      ),
+      url("../../assets/images/img-3.png") no-repeat;
+  }
+}

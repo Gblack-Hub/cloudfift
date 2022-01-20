@@ -1,0 +1,26 @@
+.getStartedBtn {
+  background: #06942a;
+  box-shadow: 0px 10px 30px rgba(6, 148, 42, 0.12);
+  border-radius: 50px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  color: #ffffff;
+}
+.getStartedBtn:hover {
+  background: #56ee7c;
+}
+
+.title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 2.1em;
+  color: #ffffff;
+}
+
+.subTitle {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  color: #ffffff;
+}
