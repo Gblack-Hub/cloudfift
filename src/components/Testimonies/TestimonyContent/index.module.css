@@ -1,0 +1,43 @@
+.name {
+  font-size: 1.15rem;
+  color: #3f403f;
+  font-weight: bold;
+}
+
+.content {
+  font-size: 1rem;
+  line-height: 2rem;
+  color: #3f403f;
+}
+
+.position {
+  font-size: 1.2rem;
+  color: #9b9b9b;
+}
+
+.header {
+  font-size: 1.8em;
+  color: #3f403f;
+}
+
+.overflowStatus {
+  /* overflow: hidden; */
+}
+.pos {
+  bottom: 40;
+  left: 0;
+  top: 80%;
+}
+
+@media screen and (max-width: 768px) {
+  .bgImage {
+    width: 60%;
+  }
+  .pos {
+    top: 85%;
+  }
+  .content {
+    font-size: 0.9rem;
+    color: #3f403f;
+  }
+}
