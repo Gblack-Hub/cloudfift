@@ -17,12 +17,8 @@ export default function NavItems({ navItems }: TNavBar) {
         <div key={id} className="px-2 my-2">
           <NavLink
             exact={true}
-            to={path}
-            activeClassName={styles.active}
+            to="/"
             className={path === pathname ? styles.active : styles.navLink}
-            // className={`text-decoration-none ${
-            //   path === pathname ? "" : "text-dark"
-            // } `}
           >
             {name}
           </NavLink>

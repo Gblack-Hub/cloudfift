@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import TestimonyContent from "./TestimonyContent";
 import { testimonyData } from "../../utils/data/testimonies";
 import TestimonyHeader from "./TestimonyHeader";
