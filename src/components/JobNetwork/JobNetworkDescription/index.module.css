@@ -1,0 +1,22 @@
+.title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.6rem;
+  color: #3f403f;
+}
+
+.content {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1rem;
+  color: #3f403f;
+}
+
+.learnMore {
+  font-size: 1rem;
+  color: #06942a;
+}
+
+.button {
+  background: none;
+}
