@@ -1,0 +1,17 @@
+.header {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.9rem;
+  color: #3f403f;
+}
+.title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #3f403f;
+}
+.content {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1em;
+}

@@ -1,0 +1,14 @@
+.title {
+  font-style: normal;
+  font-size: 1em;
+  color: #3f403f;
+}
+.company {
+  color: #06942a;
+}
+
+.galleryCard {
+  background: #fff;
+  border-radius: 10px !important;
+  box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.15) !important;
+}
